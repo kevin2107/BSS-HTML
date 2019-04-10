@@ -1,0 +1,100 @@
+{
+    "version": 42,
+    "timestamp": 1554906876923,
+    "design": {
+        "id": "0d353cbf0fb2fbbb3554d6bc3d4ffa13_1554906863796",
+        "name": "blank_design",
+        "settings": {
+            "theme": {
+                "id": "default",
+                "type": "builtin"
+            },
+            "jqueryVersion": 3,
+            "headContent": "",
+            "meta": [],
+            "sitemap": {
+                "enabled": false
+            },
+            "pwa": {
+                "enabled": false
+            },
+            "favicons": []
+        },
+        "placeholders": {},
+        "framework": "4",
+        "assets": {
+            "images": {
+                "name": "",
+                "expanded": false,
+                "children": []
+            },
+            "fonts": {
+                "name": "",
+                "expanded": false,
+                "children": []
+            },
+            "css": {
+                "name": "",
+                "expanded": false,
+                "children": [{
+                    "name": "styles.css",
+                    "properties": {},
+                    "priority": 0,
+                    "blocks": []
+                }]
+            },
+            "js": {
+                "name": "",
+                "expanded": false,
+                "children": []
+            }
+        },
+        "pages": {
+            "name": "",
+            "expanded": false,
+            "children": [{
+                "name": "index.html",
+                "properties": {},
+                "priority": 0,
+                "html": {
+                    "class": "HTML",
+                    "cssClasses": {
+                        "system": {},
+                        "parent": ""
+                    },
+                    "overrides": {},
+                    "flags": {
+                        "canBeMoved": false,
+                        "canBeDeleted": false,
+                        "canBeDuplicated": false,
+                        "canBeEdited": false,
+                        "canBePackaged": false,
+                        "canBeCopied": false
+                    },
+                    "properties": {},
+                    "label": "",
+                    "children": [{
+                        "class": "Body",
+                        "cssClasses": {
+                            "system": {},
+                            "parent": ""
+                        },
+                        "overrides": {},
+                        "flags": {
+                            "canBeMoved": false,
+                            "canBeDeleted": false,
+                            "canBeDuplicated": false,
+                            "canBeEdited": false,
+                            "canBePackaged": false,
+                            "canBeCopied": false
+                        },
+                        "properties": {},
+                        "label": "",
+                        "children": []
+                    }]
+                },
+                "meta": []
+            }]
+        }
+    }
+}
